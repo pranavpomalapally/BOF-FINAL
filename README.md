@@ -8,4 +8,4 @@ npm start
 
 ## Presentation Slide Deck
 
-###### Presentation slides can be found here [Slide Deck]( https://docs.google.com/presentation/d/1aGFz3JBeHBE94gTh8vfulysdgBfl1a-x8OM2GFGIuUg/edit?usp=sharing).
+###### Presentation slides can be found here: [Slide Deck](https://docs.google.com/presentation/d/15fG_a1HAJAiEKjZgyE__7svQodm40lnh7laazD52yGI/edit?usp=sharing).
