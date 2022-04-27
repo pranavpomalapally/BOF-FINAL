@@ -1,2 +1,2 @@
-# BOF-FINAL
-Birds of a Feather Final Prototye
+# BOF
+Birds of the Feather

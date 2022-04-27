@@ -1,0 +1,98 @@
+.home {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgb(142, 203, 234), white);
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+
+.container {
+    padding: 2px 16px;
+  }
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.selectDropdown {
+    flex: 0 1 auto;
+    top: 100px;
+    bottom: 10;
+    float:right;
+    margin-right: 43vh;
+    margin-top: 4vh;
+    width: 50vw;
+    text-align: center;
+    justify-content: center;
+}
+
+.propTitle {
+  clear:both;
+  margin-right: 70vh;
+  padding: 10px;
+}
+
+.inputElems {
+  clear:both;
+  flex: 0 1 auto;
+  top: 100px;
+  bottom: 10;
+  float:right;
+  margin-right: 29vh;
+  margin-top: 40h;
+  width: 50vw;
+  text-align: right;
+  justify-content: center;
+  padding: 10px;
+}
+
+.underElems {
+  clear:both;
+  flex: 0 1 auto;
+  top: 100px;
+  bottom: 10;
+  float:right;
+  margin-right: 100vh;
+  margin-top: 40h;
+  width: 50vw;
+  text-align: right;
+  justify-content: center;
+  padding: 10px;
+}
+
+
+.conTitle {
+  clear:both;
+  margin-right: 1vh;
+  padding: 10px;
+}
+
+.choosePic {
+  clear:both;
+  flex: 0 1 auto;
+  top: 100px;
+  bottom: 10;
+  float:right;
+  margin-right: 89.5vh;
+  margin-top: 40h;
+  width: 50vw;
+  text-align: right;
+  justify-content: right;
+  padding: 10px;
+}
+
+.uploadList {
+  clear:both;
+  flex: 0 1 auto;
+  top: 100px;
+  bottom: 10;
+  float:right;
+  margin-right: 108.7vh;
+  margin-top: 40h;
+  width: 50vw;
+  text-align: right;
+  justify-content: right;
+  padding: 10px;
+}

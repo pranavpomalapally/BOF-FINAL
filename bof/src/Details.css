@@ -1,0 +1,49 @@
+.details {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgb(142, 203, 234), white);
+    font-family: Courier New, monospace ;
+}
+
+.info{
+    font-size: 20px;
+    padding: 20px;
+    align-items: center;
+    flex: 1 1 auto;
+    font-family: Courier New, monospace ;
+}
+
+.images{
+    position:relative;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+    clear:both;
+    /* margin-left: 20px; */
+    padding: 20px;
+
+}
+
+.container {
+    padding: 10px;
+    align-items: center;
+    flex: 1 1 auto;
+    font-family: Courier New, monospace ;
+}
+
+.reserve{
+    font-size: 20px;
+    padding: 20px;
+    align-items: center;
+    flex: 1 1 auto;
+    font-family: Courier New, monospace ;
+}
+
+.info_desc {
+    font-size: 20px;
+    padding: 20px;
+    align-items: center;
+    flex: 1 1 auto;
+    font-family: Courier New, monospace ;
+}
